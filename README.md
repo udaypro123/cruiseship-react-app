@@ -18,9 +18,9 @@ i used react email.js library to send email to user after booking , and they wil
 # github and delpoyment link
 
 ```
-https://github.com/udaypro123/cruiseship-react-app
+(https://github.com/udaypro123/cruiseship-react-app)
 
-deployment link:  https://cruiseship-react-app.vercel.app/
+[deployment link: ](https://cruiseship-react-app.vercel.app/)
 ```
 
 
