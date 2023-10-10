@@ -15,6 +15,13 @@ all pages are responsive
 ```
 i used react email.js library to send email to user after booking , and they will get a confiramtion email his registerd email.
 ```
+# github and delpoyment link
+
+```
+https://github.com/udaypro123/cruiseship-react-app
+
+deployment link:  https://cruiseship-react-app.vercel.app/
+```
 
 
 
